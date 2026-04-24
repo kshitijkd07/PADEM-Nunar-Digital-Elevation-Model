@@ -8,7 +8,7 @@ A Python toolkit for generating and visualizing lunar Digital Elevation Models (
 
 This project processes georeferenced lunar imagery (e.g., from Chandrayaan-2 TMC) to reconstruct 3D terrain elevation data. It uses a photometric model tuned for the Moon's reflectance properties and provides an interactive 3D viewer for the resulting DEMs.
 
-![DEM Visualization](_visualization.png)
+
 
 ---
 
